@@ -1,0 +1,10 @@
+.vs
+builds
+Library
+Logs
+obj
+Temp
+.vsconfig
+Assembly-CSharp.cs.proj
+My project.sln
+UpgradeLog.htm
